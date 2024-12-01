@@ -1,3 +1,3 @@
 # myFirstRepository
-This is my first repository
-Author-SwarnSInghChauhan
+This is my first Git Repository
+Author-  SwarnSInghChauhan
